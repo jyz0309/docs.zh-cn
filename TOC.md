@@ -411,6 +411,7 @@
       + [any_value](/sql-reference/sql-functions/aggregate-functions/any_value.md)
       + [bitmap](/sql-reference/sql-functions/aggregate-functions/bitmap.md)
       + [count](/sql-reference/sql-functions/aggregate-functions/count.md)
+      + [hll_hash](/sql-reference/sql-functions/aggregate-functions/hll_hash.md)
       + [hll_union_agg](/sql-reference/sql-functions/aggregate-functions/hll_union_agg.md)
       + [max](/sql-reference/sql-functions/aggregate-functions/max.md)
       + [max_by](/sql-reference/sql-functions/aggregate-functions/max_by.md)
@@ -444,6 +445,7 @@
       + [bitmap_union](/sql-reference/sql-functions/bitmap-functions/bitmap_union.md)
       + [bitmap_union_count](/sql-reference/sql-functions/bitmap-functions/bitmap_union_count.md)
       + [bitmap_xor](/sql-reference/sql-functions/bitmap-functions/bitmap_xor.md)
+      + [intersect_count](/sql-reference/sql-functions/bitmap-functions/intersect_count.md)
       + [sub_bitmap](/sql-reference/sql-functions/bitmap-functions/sub_bitmap.md)
       + [to_bitmap](/sql-reference/sql-functions/bitmap-functions/to_bitmap.md)
     + 数组函数
